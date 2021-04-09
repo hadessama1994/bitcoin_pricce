@@ -5,6 +5,8 @@
 
 This flutter app will get the bitcoin price in BRL.
 
+App is LIVE: https://play.google.com/store/apps/details?id=com.ollis.preco_do_bitcoin
+
 
 <img src="https://i.imgur.com/gKzqJre.png" width="320" height="640">
 
